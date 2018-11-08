@@ -7,7 +7,7 @@ public class Logit {
 	public static void main(String[] args) {
 		Logger.getGlobal().info("Opening file "+"foobar.txt");
 		
-		// make a logger
+		// make a logger just for fun
 		logger = Logger.getLogger("lgit.logit");
 		logger.warning("foo");
 		
